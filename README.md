@@ -20,7 +20,7 @@ The project involved running various SQL queries to analyze the data. Some of th
 - Understanding why a specific market has higher profits compared to other countries
 
 ## Data Visualizations
-The results of the SQL analysis were visualized using Tableau. Here are some of the visualizations created:
+The results of the SQL analysis were visualized using Tableau.
 You can view the interactive Tableau visualization at [Tableau Public - Bike Company Visualization](https://public.tableau.com/app/profile/chloe.ta2127/viz/Bike-o-MetricsUnveilingProfitInsights/Dashboard2). 
 The visualizations include top product categories, profit breakdown by market, pricing analysis and profit trends.
 
