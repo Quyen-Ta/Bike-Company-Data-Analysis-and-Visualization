@@ -1,4 +1,4 @@
-# Bike Company Data Analysis and Visualization
+# Revenue and Profit Data Analysis
 
 ## Project Overview
 This project analyzes data for a fictional bike company, exploring customer information, product details, revenue, and profit. The aim is to gain insights into the company's performance and provide data visualizations using Tableau.
