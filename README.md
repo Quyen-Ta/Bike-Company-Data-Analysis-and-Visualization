@@ -3,6 +3,9 @@
 ## Project Overview
 This project analyzes data for a fictional bike company, exploring customer information, product details, revenue, and profit. The aim is to gain insights into the company's performance and provide data visualizations using Tableau.
 
+## Tools Used
+SQL, Tableau
+
 ## Data Sources
 The data for this project was obtained from Kaggle. 
 It includes information on customers, products, sales transactions, unit cost and unit price details.
