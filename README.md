@@ -9,7 +9,7 @@ It includes information on customers, products, sales transactions, unit cost an
 
 ## Database Schema
 The SQL database contains the following tables:
-- `customers`: Information about the company's customers, including customer age and gender.
+- `bikesales`: Information about the company's customers, product sub categories, sales, profit, unit cost and unit price.
 - `products`: Details of product categories and sub categories.
 - `location`: Country and state details.
 
